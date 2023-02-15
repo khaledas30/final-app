@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: khaledashraf30/nodejs:tag
+        image: khaledashraf30/nodejs:vtag
         ports:
         - containerPort: 3000
